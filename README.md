@@ -1,2 +1,1 @@
-# RADCORAS
-Radometric Correction of Aerial images using Satellite data
+# s2l2a_to_ultracam
