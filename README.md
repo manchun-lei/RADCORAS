@@ -14,7 +14,7 @@ dst_path_name: Destination path name
 
 ## Output
 
-epsg2154_+{data_name}+_FRE_+{ultracam_band_name}+.tif
+epsg2154_data_name_FRE_ultracam_band_name.tif
 
 FRE: THEIA-LAND L2A, ground reflectance with correction of slope effects
 
