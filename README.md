@@ -16,7 +16,7 @@ dst_path_name: Destination path name
 
 epsg2154_data_name_FRE_ultracam_band_name.tif
 
-FRE: THEIA-LAND L2A, ground reflectance with correction of slope effects
+FRE: THEIA-LAND L2A product, ground reflectance with correction of slope effects
 
 DN = FRE*10000
 
